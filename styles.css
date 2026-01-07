@@ -1,0 +1,33 @@
+body{
+ font-family:Arial;
+ background:#f4f6f8;
+ margin:0;
+}
+.container{
+ width:350px;
+ background:#fff;
+ padding:20px;
+ margin:60px auto;
+ border-radius:6px;
+ box-shadow:0 0 10px rgba(0,0,0,0.1);
+}
+h2{text-align:center;color:#1f6feb}
+input,button{
+ width:100%;
+ padding:10px;
+ margin:6px 0;
+}
+button{
+ background:#1f6feb;
+ color:white;
+ border:none;
+ cursor:pointer;
+}
+button.logout{background:#d9534f}
+.module{
+ background:#eef2f5;
+ padding:10px;
+ margin:10px 0;
+ border-radius:4px;
+}
+a{text-decoration:none;color:#1f6feb}
